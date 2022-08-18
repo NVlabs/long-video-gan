@@ -1,0 +1,23 @@
+channels:
+    - defaults
+    - pytorch
+    - conda-forge
+dependencies:
+    - click
+    - cudatoolkit=11.6
+    - einops
+    - filelock
+    - imageio
+    - imageio-ffmpeg
+    - joblib
+    - matplotlib
+    - numpy
+    - pillow
+    - pip
+    - pytorch=1.12
+    - scipy=1.8
+    - tqdm
+    - wandb
+    - pip:
+        - av
+        - yt-dlp
