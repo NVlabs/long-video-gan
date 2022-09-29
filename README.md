@@ -145,11 +145,11 @@ The horseback riding dataset is made available under the [CC BY-NC-SA 4.0 Licens
 ## Citation
 
 ```
-@article{brooks2022generating,
-  title={Generating Long Videos of Dynamic Scenes},
-  author={Brooks, Tim and Hellsten, Janne and Aittala, Miika and Wang, Ting-Chun and Aila, Timo and Lehtinen, Jaakko and Liu, Ming-Yu and Efros, Alexei A and Karras, Tero},
-  journal={arXiv preprint arXiv:2206.03429},
-  year={2022}
+@inproceedings{brooks2022generating,
+    title={Generating Long Videos of Dynamic Scenes},
+    author={Brooks, Tim and Hellsten, Janne and Aittala, Miika and Wang, Ting-Chun and Aila, Timo and Lehtinen, Jaakko and Liu, Ming-Yu and Efros, Alexei A and Karras, Tero},
+    booktitle=NeurIPS,
+    year={2022}
 }
 ```
 
