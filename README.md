@@ -1,4 +1,4 @@
-## Generating Long Videos of Dynamic Scenes (LongVideoGAN) <br><sub>Official PyTorch code release for this paper: https://arxiv.org/abs/2206.03429</sub>
+## Generating Long Videos of Dynamic Scenes (LongVideoGAN) <br><sub>Official PyTorch code release for the NeurIPS 2022 paper: https://arxiv.org/abs/2206.03429</sub>
 
 ![Generated horseback video](teaser_horseback.gif "Generated horseback video") ![Generated biking video](teaser_biking.gif "Generated biking video")
 
